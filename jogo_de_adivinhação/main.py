@@ -9,7 +9,7 @@ print("(1) Força (2) Adivinhação")
 jogo = int(input())
 
 if jogo == 1:
-    print('Você escolheu "Força" (o jogo forca ainda não está implementado)')
+    print('Você escolheu "Forca" (o jogo forca ainda não está implementado)')
 elif jogo == 2:
     adivinhacao.adivinhacao_game()
 else:
